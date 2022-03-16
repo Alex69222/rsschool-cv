@@ -16,3 +16,11 @@ I realy enjoy my occupation, because there is always something new to learn:slig
 
 Besides programming, I enjoy travelling, reading books and playing guitar:guitar:
 *****
+### Skills:
+* HTML & CSS
+* Javascript Basics
+* React Basics
+* PHP Basics
+* Git & Github
+* Figma
+*****
